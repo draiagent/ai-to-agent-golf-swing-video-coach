@@ -87,6 +87,6 @@ RELEASE_NOTES.md          本版發布說明
 
 ## 授權與版權
 
-程式與文字文件沿用 [MIT License](LICENSE)，保留原始 `Copyright (c) 2026 CGMCOACH`。圖片、人物與 Logo 不隨程式授予 MIT 權利，詳見 [圖片權利說明](assets/RIGHTS.md) 與 [第三方聲明](THIRD_PARTY_NOTICES.md)。品牌署名不等同法律權利人。
+程式與文字文件沿用 [MIT License](LICENSE)，保留原始 `Copyright (c) 2026 AI Coach 益力康陳董 x CGM Coach 血糖教練`。圖片、人物與 Logo 不隨程式授予 MIT 權利，詳見 [圖片權利說明](assets/RIGHTS.md) 與 [第三方聲明](THIRD_PARTY_NOTICES.md)。品牌署名不等同法律權利人。
 
 **AI Coach 益力康陳董 x CGM Coach 血糖教練 | 2026 AI to Agent**
