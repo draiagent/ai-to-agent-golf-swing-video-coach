@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-27",
+  "input_zip": "ai-to-agent-golf-swing-video-coach_2.zip",
+  "input_zip_sha256": "64439b5e6f3de8fdddfbb803deaf0aaa1b927b443a64df7d493d66ba4eb7761a",
+  "image_source": "AI-Golf-Coach-12-Cards.pdf",
+  "image_source_sha256": "e1eea5daefead5ee5271355f6870ff9cd72cf417b9c2f27a9069add9cbe19d0e",
+  "unchanged_files": [
+    {
+      "file": "LICENSE",
+      "sha256": "92e41346db750de26cfe5fe1dc3f75a8bf8bb4ae6b2a35742f9fc4749bd2519d"
+    },
+    {
+      "file": "scripts/swing_prep.py",
+      "sha256": "f9babb297171cdc5cc97cb4f40f1338e33ad9b7c180140bf2ad58bd2a526065c"
+    }
+  ]
+}

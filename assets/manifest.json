@@ -1,0 +1,98 @@
+[
+  {
+    "page": 1,
+    "file": "assets/cards/01-overview.png",
+    "sha256": "49529d1142839a1625327aa9fa47f6c8477fee9cb568e455d80365fe60b69457",
+    "source": "AI-Golf-Coach-12-Cards.pdf",
+    "source_page": 1,
+    "origin": "AI-generated illustration; educational, not measured evidence"
+  },
+  {
+    "page": 2,
+    "file": "assets/cards/02-workflow.png",
+    "sha256": "355b07eac0e0487a1cce2af9d8b4a4e43648350107ef74cf1256c542319af510",
+    "source": "AI-Golf-Coach-12-Cards.pdf",
+    "source_page": 2,
+    "origin": "AI-generated illustration; educational, not measured evidence"
+  },
+  {
+    "page": 3,
+    "file": "assets/cards/03-video-input.png",
+    "sha256": "bca2bb7389a72996cf749341695896834d6b5314c053e8b8b66c92f662cf9e37",
+    "source": "AI-Golf-Coach-12-Cards.pdf",
+    "source_page": 3,
+    "origin": "AI-generated illustration; educational, not measured evidence"
+  },
+  {
+    "page": 4,
+    "file": "assets/cards/04-pose-tracking.png",
+    "sha256": "d45a3932478a651d7b6e2005c8fe07b10ef304cbf5b0effa3c1a03ae275ca654",
+    "source": "AI-Golf-Coach-12-Cards.pdf",
+    "source_page": 4,
+    "origin": "AI-generated illustration; educational, not measured evidence"
+  },
+  {
+    "page": 5,
+    "file": "assets/cards/05-stroke-type.png",
+    "sha256": "224d7c99b0cbc8f6f1527eaad4e1c2eb6bdb0d1e6ef6337d271104c0113b6c09",
+    "source": "AI-Golf-Coach-12-Cards.pdf",
+    "source_page": 5,
+    "origin": "AI-generated illustration; educational, not measured evidence"
+  },
+  {
+    "page": 6,
+    "file": "assets/cards/06-key-positions.png",
+    "sha256": "626845a4984484171cf1ee5d5347c1efc530e6d5f64ab0bb5db4a504ec06c525",
+    "source": "AI-Golf-Coach-12-Cards.pdf",
+    "source_page": 6,
+    "origin": "AI-generated illustration; educational, not measured evidence"
+  },
+  {
+    "page": 7,
+    "file": "assets/cards/07-metrics.png",
+    "sha256": "7221cf3ffce4e8589dd12cbc4cd4041fe96b52ce620420d736d9935f09ce47e5",
+    "source": "AI-Golf-Coach-12-Cards.pdf",
+    "source_page": 7,
+    "origin": "AI-generated illustration; educational, not measured evidence"
+  },
+  {
+    "page": 8,
+    "file": "assets/cards/08-coach-review.png",
+    "sha256": "ab3223c3446b32a2baf273f6542043f5f637d536a2b97d55b0c49a3de1bf13d3",
+    "source": "AI-Golf-Coach-12-Cards.pdf",
+    "source_page": 8,
+    "origin": "AI-generated illustration; educational, not measured evidence"
+  },
+  {
+    "page": 9,
+    "file": "assets/cards/09-drills.png",
+    "sha256": "38e83cc41f6e5224ba7e0c30437405e768dc2af1ed234f894116467c05494fac",
+    "source": "AI-Golf-Coach-12-Cards.pdf",
+    "source_page": 9,
+    "origin": "AI-generated illustration; educational, not measured evidence"
+  },
+  {
+    "page": 10,
+    "file": "assets/cards/10-four-weeks.png",
+    "sha256": "eb29938a89329f4c714c733737f7502df677fc574e17f01033b1e1e3d1b2ab1c",
+    "source": "AI-Golf-Coach-12-Cards.pdf",
+    "source_page": 10,
+    "origin": "AI-generated illustration; educational, not measured evidence"
+  },
+  {
+    "page": 11,
+    "file": "assets/cards/11-scenarios.png",
+    "sha256": "f2155c68da65aa3f2596d6913798e04cc177743c4863f783bc1d996778714ad4",
+    "source": "AI-Golf-Coach-12-Cards.pdf",
+    "source_page": 11,
+    "origin": "AI-generated illustration; educational, not measured evidence"
+  },
+  {
+    "page": 12,
+    "file": "assets/cards/12-summary.png",
+    "sha256": "ac451a8e1149f1a8aae76d7291786235a1cc47c5fed1967ac0643cc0916f4476",
+    "source": "AI-Golf-Coach-12-Cards.pdf",
+    "source_page": 12,
+    "origin": "AI-generated illustration; educational, not measured evidence"
+  }
+]

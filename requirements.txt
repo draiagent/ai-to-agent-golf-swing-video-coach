@@ -1,0 +1,6 @@
+# Suggested compatibility baseline; installation not validated in this package.
+# Uses legacy mp.solutions.pose. Do not blindly upgrade.
+mediapipe==0.10.14
+numpy>=1.26,<2
+# Use one OpenCV distribution only; MediaPipe already requires contrib.
+opencv-contrib-python>=4.8,<4.12
